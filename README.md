@@ -9,7 +9,7 @@ Razvijena aplikacija za iznajmljivanje bicikala omogućava registraciju i prijav
 - **softveri_server_ANDRIJANA** - Serverska aplikacija koja upravlja zahtevima klijenata
 - **softveri_zajednicki_ANDRIJANA** - Zajedničke klase (Operacije, zahtevi i odgovori između klijenata i servera)
 
-##Funkcionalnosti
+## Funkcionalnosti
 
 - **Iznajmljivanje** - ubacivanje novih iznajmljivanja, pretraga i izmena podataka
 - **Kupac** - dodavanje, pretraga, izmena i brisanje kupaca
@@ -18,7 +18,7 @@ Razvijena aplikacija za iznajmljivanje bicikala omogućava registraciju i prijav
 - **Mesto** - dodavanje, pretraga, izmena i brisanje mesta
 - **Termin dežurstva** - ubacivanje, pretraga, izmena i brisanje termina
 
-##Tehnologije
+## Tehnologije
 
 - Java SE
 - Java Swing (GUI)
